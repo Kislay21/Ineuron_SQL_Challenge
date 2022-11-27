@@ -6,4 +6,4 @@ There are 3 sets of Assignments comprising of total 172 questions. I have attach
 solutions of all 3 assignments.
 
 Some of the questions are repeated which I have highlighted in the document.
-And Some of the questions are too tricky to solve which I have mentioned in the readme section of each folder.
+
